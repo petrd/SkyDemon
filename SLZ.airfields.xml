@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AirfieldsList>
+  <Airfield UniqueIdentifier="" Name="Jilemnice Brabenec" Position="N503640.85 E0153226.55" IcaoIdentifier="" LocalIdentifier="ULBRAB" Elevation="1476.00" TrafficType="M" UsageType="C" Circuits="" Operator="" PPRContact="604 326 194, 604 644 880" Availability="2" URL="http://www.letiste.estranky.cz" Email="aviatikclub@seznam.cz" OpeningHours="" LandingFee="" Remarks="" Caution="" LastUpdated="20190407120300" AuthorFlags="0">
+    <Runways>
+      <Runway Length="450.00" Width="25.00" Active="1" Notes="06 - LAND, 24 - T/O" Surface="GRASS" Accuracy="0">
+        <BaseEnd Identifier="06" ThresholdPosition="N503633.80 E0153209.50" ThresholdElevation="1476.00" TrueBearing="56.73" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="24" ThresholdPosition="N503641.80 E0153228.70" ThresholdElevation="1420.00" TrueBearing="236.74" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Jestřábí u Jilemnice" Position="N504055.80 E0152854.20" IcaoIdentifier="" LocalIdentifier="ULJEST" Elevation="2520.00" TrafficType="D" UsageType="C" Circuits="" Operator="" PPRContact="" Availability="2" URL="" Email="" OpeningHours="" LandingFee="" Remarks="" Caution="" LastUpdated="20190407120450" AuthorFlags="0">
+    <Runways>
+      <Runway Length="550.00" Width="" Active="0" Notes="" Surface="GRASS" Accuracy="0">
+        <BaseEnd Identifier="07" ThresholdPosition="N504054.25 E0152842.90" ThresholdElevation="2467.00" TrueBearing="76.93" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="26" ThresholdPosition="N504058.30 E0152910.45" ThresholdElevation="2552.00" TrueBearing="256.94" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Stremy" Position="N502306.00 E0143438.00" IcaoIdentifier="" LocalIdentifier="LKSTRE" Elevation="985.00" TrafficType="D" UsageType="F" Circuits="" Operator="" PPRContact="" Availability="2" URL="" Email="" OpeningHours="" LandingFee="" Remarks="" Caution="" LastUpdated="20190830093530" AuthorFlags="0">
+    <Runways>
+      <Runway Length="500.00" Width="15.00" Active="1" Notes="" Surface="ASPHALT" Accuracy="0">
+        <BaseEnd Identifier="09" ThresholdPosition="N502307.00 E0143425.15" ThresholdElevation="985.00" TrueBearing="95.14" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="27" ThresholdPosition="N502305.55 E0143450.30" ThresholdElevation="985.00" TrueBearing="275.14" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Liběšice u Litoměřic" Position="N503344.00 E0141532.00" IcaoIdentifier="" LocalIdentifier="ULLIBE" Elevation="972.00" TrafficType="D" UsageType="C" Circuits="" Operator="" PPRContact="" Availability="2" URL="" Email="" OpeningHours="" LandingFee="" Remarks="" Caution="" LastUpdated="20190412114759" AuthorFlags="0">
+    <Runways>
+      <Runway Length="550.00" Width="30.00" Active="1" Notes="" Surface="GRASS" Accuracy="0">
+        <BaseEnd Identifier="11" ThresholdPosition="N503346.80 E0141517.20" ThresholdElevation="972.00" TrueBearing="106.08" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="29" ThresholdPosition="N503341.55 E0141545.85" ThresholdElevation="972.00" TrueBearing="286.08" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Česká Lípa západ" Position="N504210.90 E0142956.60" IcaoIdentifier="" LocalIdentifier="ULCLIP" Elevation="892.00" TrafficType="M" UsageType="C" Circuits="" Operator="" PPRContact="" Availability="2" URL="" Email="" OpeningHours="" LandingFee="" Remarks="" Caution="" LastUpdated="20190412120551" AuthorFlags="0">
+    <Runways>
+      <Runway Length="500.00" Width="15.00" Active="1" Notes="" Surface="ASPHALT" Accuracy="0">
+        <BaseEnd Identifier="13" ThresholdPosition="N504216.20 E0142946.65" ThresholdElevation="892.00" TrueBearing="129.76" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="31" ThresholdPosition="N504205.55 E0143006.85" ThresholdElevation="892.00" TrueBearing="309.76" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Horní Kalná" Position="N503407.90 E0153543.20" IcaoIdentifier="" LocalIdentifier="" Elevation="1515.00" TrafficType="M" UsageType="C" Circuits="" Operator="" PPRContact="" Availability="2" URL="" Email="" OpeningHours="" LandingFee="" Remarks="" Caution="" LastUpdated="20190710185735" AuthorFlags="0">
+    <Runways>
+      <Runway Length="365.00" Width="25.00" Active="1" Notes="" Surface="GRASS" Accuracy="0">
+        <BaseEnd Identifier="07" ThresholdPosition="N503405.55 E0153534.45" ThresholdElevation="1525.00" TrueBearing="66.37" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="25" ThresholdPosition="N503410.30 E0153551.55" ThresholdElevation="1509.00" TrueBearing="246.37" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+  <Airfield UniqueIdentifier="" Name="Modelpark Suché" Position="N503742.40 E0135519.25" IcaoIdentifier="" LocalIdentifier="" Elevation="942.00" TrafficType="D" UsageType="F" Circuits="" Operator="" PPRContact="+420605558533" Availability="2" URL="http://www.mkchlumec.cz" Email="kareljerabek88@seznam.cz" OpeningHours="" LandingFee="" Remarks="" Caution="" LastUpdated="20190830093349" AuthorFlags="0">
+    <Runways>
+      <Runway Length="260.00" Width="15.00" Active="1" Notes="" Surface="ASPHALT" Accuracy="0">
+        <BaseEnd Identifier="10" ThresholdPosition="N503743.35 E0135512.80" ThresholdElevation="938.00" TrueBearing="102.94" ThresholdDisplacement="0.0" Lighting="0" />
+        <FarEnd Identifier="28" ThresholdPosition="N503741.45 E0135525.80" ThresholdElevation="948.00" TrueBearing="282.95" ThresholdDisplacement="0.0" Lighting="0" />
+      </Runway>
+    </Runways>
+    <Frequencies />
+    <Fuel />
+    <MappedEntities />
+  </Airfield>
+</AirfieldsList>
